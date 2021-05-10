@@ -1,6 +1,6 @@
 
 
-![116271670-a1b8a680-a799-11eb-867d-8af487fee8e8](https://user-images.githubusercontent.com/80645979/117633904-e845d200-b197-11eb-906e-91555bd77104.png)
+
 
 # ropository-test
 
